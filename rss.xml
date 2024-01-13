@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+        <channel>
+            <title>GitHub-Blogs</title>
+            <link>https://github.com/MiguelCejasGarcia/GitHub-Blogs</link>
+            <description>Este sitio web incluye algunas de las noticias más destacadas de GitHub-Blogs</description>
+         <language>es</language>
+         <generator>https://wordpress.org/?v=6.4.2</generator>
+         <sy:updatePeriod>hourly</sy:updatePeriod>
+            <atom:link href="chrome-extension://eggggihfcaabljfpjiiaohloefmgejic/rss.html" rel="self" type="application/rss+xml" />
+            <item>
+                <title>Githubs Top Blogs posts de 2023</title>
+                <link> https://miguelcejasgarcia.github.io/GitHub-Blogs/ </link> 
+                <description>Algunos de los trabajos más destacados de este año 2023</description>
+                <pubDate>Wed, 27 Dec 2023 17:00:23 +0000</pubDate>
+                <guid isPermaLink="false">https://github.blog/?p=75904</guid>
+            </item>
+            <item>
+                <title>Game Off 2023 results</title>
+                <link>https://miguelcejasgarcia.github.io/GitHub-Blogs/</link>
+                <description>Aquí puedes encontrar los mejores juegos de 2023</description>
+               
+                <guid isPermaLink="false">https://github.blog/?p=76021</guid> 
+            </item>
+            <item>
+                <title>The GitHub Blog</title>
+                <link>https://miguelcejasgarcia.github.io/GitHub-Blogs/</link>
+                <description>Actualizaciones, ideas e inspiración de GitHub para ayudar a los desarrolladores a crear y diseñar software.</description>
+                <pubDate>Wed, 10 Jan 2024 15:16:09 +0000</pubDate>
+                
+            </item>
+            <item>
+                <title>Cómo organizamos y hacemos las cosas con SERVICEOWNERS</title>
+                <link>https://miguelcejasgarcia.github.io/GitHub-Blogs/</link>
+                <description>Lleva a los equipos de CODEOWNERS y GitHub al siguiente nivel.</description>
+                <pubDate>Tue, 19 Dec 2023 18:00:08 +0000</pubDate>
+                <guid isPermaLink="false">https://github.blog/?p=75858</guid>
+            </item>
+            <item>
+                <title>GitHub y la Ekoparty 2023 capturan la bandera</title>
+                <link>https://miguelcejasgarcia.github.io/GitHub-Blogs/</link>
+                <description>¡El Laboratorio de Seguridad de GitHub se asoció con Ekoparty una vez más para crear algunos desafíos para su competencia anual Captura la Bandera!</description>
+                <pubDate>Mon, 08 Jan 2024 17:00:22 +0000</pubDate>
+                <guid isPermaLink="false">https://github.blog/?p=75927</guid>
+            </item>
+        </channel>
+    </rss>
