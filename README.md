@@ -1,3 +1,3 @@
 # GitHub-Blogs
 
-[rss] (rss.xml)
+[rss](rss.xml)
